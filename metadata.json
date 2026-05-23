@@ -1,0 +1,6 @@
+{
+  "name": "TND Fruit Zone",
+  "description": "Healthy fruit salads, custom bowls, juices & cozy comfort snacks like chai and maska bun in a fresh, minimalist aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
